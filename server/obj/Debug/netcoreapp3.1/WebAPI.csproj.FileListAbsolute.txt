@@ -1,0 +1,198 @@
+E:\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+E:\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.exe
+E:\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.deps.json
+E:\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
+E:\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
+E:\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.dll
+E:\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.pdb
+E:\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+E:\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+E:\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+E:\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+E:\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+E:\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.xml
+E:\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
+E:\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
+E:\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
+E:\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csprojAssemblyReference.cache
+E:\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+E:\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\mycourses\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\mycourses\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+E:\mycourses\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\mycourses\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.exe
+E:\mycourses\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.deps.json
+E:\mycourses\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
+E:\mycourses\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
+E:\mycourses\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.dll
+E:\mycourses\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.pdb
+E:\mycourses\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\mycourses\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\mycourses\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\mycourses\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\mycourses\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\mycourses\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\mycourses\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\mycourses\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\mycourses\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\mycourses\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\mycourses\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csprojAssemblyReference.cache
+E:\mycourses\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+E:\mycourses\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+E:\mycourses\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+E:\mycourses\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\mycourses\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+E:\mycourses\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+E:\mycourses\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+E:\mycourses\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.xml
+E:\mycourses\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
+E:\mycourses\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
+E:\mycourses\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.StaticWebAssets.xml
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.exe
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.deps.json
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.AssemblyReference.cache
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.StaticWebAssets.xml
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.exe
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.deps.json
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.AssemblyReference.cache
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Users\Peras\Desktop\ReactJsCoreApi\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
+C:\Users\Peras\Desktop\ReactJsCoreApi\server\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Peras\Desktop\ReactJsCoreApi\server\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Peras\Desktop\ReactJsCoreApi\server\bin\Debug\netcoreapp3.1\WebAPI.StaticWebAssets.xml
+C:\Users\Peras\Desktop\ReactJsCoreApi\server\bin\Debug\netcoreapp3.1\WebAPI.exe
+C:\Users\Peras\Desktop\ReactJsCoreApi\server\bin\Debug\netcoreapp3.1\WebAPI.deps.json
+C:\Users\Peras\Desktop\ReactJsCoreApi\server\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
+C:\Users\Peras\Desktop\ReactJsCoreApi\server\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
+C:\Users\Peras\Desktop\ReactJsCoreApi\server\bin\Debug\netcoreapp3.1\WebAPI.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi\server\bin\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Users\Peras\Desktop\ReactJsCoreApi\server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi\server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi\server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi\server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi\server\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi\server\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi\server\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi\server\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi\server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi\server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi\server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi\server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi\server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi\server\obj\Debug\netcoreapp3.1\WebAPI.csproj.AssemblyReference.cache
+C:\Users\Peras\Desktop\ReactJsCoreApi\server\obj\Debug\netcoreapp3.1\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peras\Desktop\ReactJsCoreApi\server\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+C:\Users\Peras\Desktop\ReactJsCoreApi\server\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+C:\Users\Peras\Desktop\ReactJsCoreApi\server\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Peras\Desktop\ReactJsCoreApi\server\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Peras\Desktop\ReactJsCoreApi\server\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+C:\Users\Peras\Desktop\ReactJsCoreApi\server\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Peras\Desktop\ReactJsCoreApi\server\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+C:\Users\Peras\Desktop\ReactJsCoreApi\server\obj\Debug\netcoreapp3.1\WebAPI.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi\server\obj\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Users\Peras\Desktop\ReactJsCoreApi\server\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
+C:\Users\Peras\Desktop\ReactJsCoreApi — копия\server\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Peras\Desktop\ReactJsCoreApi — копия\server\bin\Debug\netcoreapp3.1\WebAPI.StaticWebAssets.xml
+C:\Users\Peras\Desktop\ReactJsCoreApi — копия\server\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Peras\Desktop\ReactJsCoreApi — копия\server\bin\Debug\netcoreapp3.1\WebAPI.exe
+C:\Users\Peras\Desktop\ReactJsCoreApi — копия\server\bin\Debug\netcoreapp3.1\WebAPI.deps.json
+C:\Users\Peras\Desktop\ReactJsCoreApi — копия\server\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
+C:\Users\Peras\Desktop\ReactJsCoreApi — копия\server\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
+C:\Users\Peras\Desktop\ReactJsCoreApi — копия\server\bin\Debug\netcoreapp3.1\WebAPI.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi — копия\server\bin\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Users\Peras\Desktop\ReactJsCoreApi — копия\server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi — копия\server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi — копия\server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi — копия\server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi — копия\server\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi — копия\server\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi — копия\server\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi — копия\server\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi — копия\server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi — копия\server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi — копия\server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi — копия\server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi — копия\server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi — копия\server\obj\Debug\netcoreapp3.1\WebAPI.csproj.AssemblyReference.cache
+C:\Users\Peras\Desktop\ReactJsCoreApi — копия\server\obj\Debug\netcoreapp3.1\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peras\Desktop\ReactJsCoreApi — копия\server\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+C:\Users\Peras\Desktop\ReactJsCoreApi — копия\server\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+C:\Users\Peras\Desktop\ReactJsCoreApi — копия\server\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Peras\Desktop\ReactJsCoreApi — копия\server\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Peras\Desktop\ReactJsCoreApi — копия\server\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+C:\Users\Peras\Desktop\ReactJsCoreApi — копия\server\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Peras\Desktop\ReactJsCoreApi — копия\server\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+C:\Users\Peras\Desktop\ReactJsCoreApi — копия\server\obj\Debug\netcoreapp3.1\WebAPI.dll
+C:\Users\Peras\Desktop\ReactJsCoreApi — копия\server\obj\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Users\Peras\Desktop\ReactJsCoreApi — копия\server\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
